@@ -1,0 +1,8 @@
+Public IP Address:
+103.121.27.218
+
+Private IP Address:
+127.0.0.1
+
+MAC Address:
+08:00:27:ad:25:19
